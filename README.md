@@ -23,6 +23,7 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Alan Beggs, Kathryn Graddy | *Anchoring Effects: Evidence from Art Auctions* | *American Economic Review* | 2009 | [Open](https://doi.org/10.3886/E113297V1) |
 | Elena Krasnokutskaya, Katja Seim | *Bid Preference Programs and Participation in Highway Procurement Auctions* | *American Economic Review* | 2011 | [Open](https://doi.org/10.3886/E112464V1) |
 | Charles R. Plott, Hsing-Yang Lee, Travis Maron | *The Continuous Combinatorial Auction Architecture* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112808V1) |
 | Jonathan Levin, Andrzej Skrzypacz | *Properties of the Combinatorial Clock Auction* | *American Economic Review* | 2016 | [Open](https://doi.org/10.3886/E113004V1) |
