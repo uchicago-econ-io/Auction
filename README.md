@@ -34,6 +34,20 @@ It is especially useful for:
 | Matthew Backus, Greg Lewis | *Dynamic Demand Estimation in Auction Markets* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10416565) |
 | Nicholas Buchholz, Laura Doval, Jakub Kastl, Filip Matějka, Tobias Salz | *Personalized Pricing and the Value of Time: Evidence From Auctioned Cab Rides* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/14616653) | 
 
+
+## Review of Economics and Statistics
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Orley Ashenfelter; Gordon B. Dahl | *Bargaining and the Role of Expert Agents: An Empirical Study of Final-Offer Arbitration* | Review of Economics and Statistics | 2012 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HVX2YP) |
+| Nathalie Gimenes | *Econometrics of Ascending Auctions by Quantile Regression* | Review of Economics and Statistics | 2017 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MCAVFP) |
+| Joseph Kuehn | *Estimating Auctions with Externalities: The Case of USFS Timber Auctions* | Review of Economics and Statistics | 2019 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5A69IZ) |
+| Paul J. Ferraro; Kent D. Messer; Pallavi Shukla; Collin Weigel | *Behavioral Biases among Producers: Experimental Evidence of Anchoring in Procurement Auctions* | Review of Economics and Statistics | 2024 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4QZLJV) |
+| David Genesove; James Hansen | *Auctions and Negotiations in Housing Price Dynamics* | Review of Economics and Statistics | 2025 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HYVOBX) |
+| Riccardo Camboni; Luca Corazzini; Stefano Galavotti; Paola Valbonesi | *Bidding on Price and Quality: An Experiment on the Complexity of Scoring Rule Auctions* | Review of Economics and Statistics | 2025 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JCQMHK) |
+| Bing Liu; Simon Loertscher; Leslie M. Marx | *Efficient Consignment Auctions* | Review of Economics and Statistics | 2026 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PSIDIV) |
+
+
 ## American Economic Journal: Microeconomics
 
 | Authors | Paper | Journal | Year | Package |
