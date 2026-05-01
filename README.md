@@ -71,6 +71,13 @@ It is especially useful for:
 | Robert Clark, Decio Coviello, Adriano De Leverano | *Complementary Bidding and the Collusive Arrangement: Evidence from an Antitrust Investigation* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E201303V1) |
 
 
+## Other
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Fabrizio Casalin, Enzo Dia | *Information and reputation mechanisms in auctions of remanufactured goods* | *International Journal of Industrial Organization* | 2019 | [Open](https://data.mendeley.com/datasets/2238kdvhmj/1) |
+
+
 ---
 
 ## Additional Information
