@@ -28,7 +28,6 @@ It is especially useful for:
 | Charles R. Plott, Hsing-Yang Lee, Travis Maron | *The Continuous Combinatorial Auction Architecture* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112808V1) |
 | Jonathan Levin, Andrzej Skrzypacz | *Properties of the Combinatorial Clock Auction* | *American Economic Review* | 2016 | [Open](https://doi.org/10.3886/E113004V1) |
 | Ali Hortaçsu, Jakub Kastl, Allen Zhang | *Bid Shading and Bidder Surplus in the US Treasury Auction System* | *American Economic Review* | 2018 | [Open](https://doi.org/10.3886/E113137V1) |
-| Reshmaan Hussam, Natalia Rigol, Benjamin Roth | *Targeting High Ability Entrepreneurs Using Community Information* | *American Economic Review* | 2022 | [Open](https://doi.org/10.3886/E151841V1) |
 | Giuseppe Lopomo, Nicola Persico, Alessandro T. Villa | *Optimal Procurement with Quality Concerns* | *American Economic Review* | 2023 | [Open](https://doi.org/10.3886/E182801V1) |
 | Kathleen Ngangoué, Andrew Schotter | *The Common-Probability Auction Puzzle* | *American Economic Review* | 2023 | [Open](https://doi.org/10.3886/E184041V1) |
 | Matthew Backus, Greg Lewis | *Dynamic Demand Estimation in Auction Markets* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10416565) |
